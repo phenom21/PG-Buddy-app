@@ -30,7 +30,7 @@ let AddPg=()=>{
             <div className="row">
                 <div className="col">
                     <p className="h4 text-dark">List PG</p>
-                    <p className="fst-italic">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ad architecto iure, earum deserunt natus! Deserunt modi, magnam reiciendis sapiente dolor consequuntur nam quam, voluptate eum, ad omnis! Deserunt, adipisci.</p>
+                    <p className="fst-italic">Enter below the details of your property and take the first step towards showcasing to the world what great property you have in house for them!!</p>
                 </div>
             </div>
             <div className="row">

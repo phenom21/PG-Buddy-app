@@ -18,7 +18,7 @@ let ViewPg=()=>{
             <div className="row">
                 <div className="col">
                     <p className="h2 text-dark"> View PG</p>
-                    <p className="fst-italic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur ad dolorum asperiores possimus sequi iste, eius in excepturi totam qui omnis? Soluta, id. Aut placeat sunt aperiam assumenda dignissimos a?</p>
+                    <p className="fst-italic">"PG life is full of crazy memories, with little bit of glory in comparison to many more fake theories.” Below are the details of the property that you wanted to explore!!</p>
                 </div>
             </div>
         </div>
